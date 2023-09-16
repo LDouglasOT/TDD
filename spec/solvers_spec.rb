@@ -1,7 +1,7 @@
 # rubocop:disable all
 # frozen_string_literal: true
 
-require_relative "../Solvers"
+require_relative "../solvers"
 
 describe Solver do
   describe ".factorial" do

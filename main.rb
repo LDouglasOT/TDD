@@ -3,6 +3,5 @@
 require_relative "Solvers"
 
 # Represents main entry
-def main
-end
+def main; end
 main

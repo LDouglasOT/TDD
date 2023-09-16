@@ -32,4 +32,34 @@ describe Solver do
       expect(Solver.reverse("12345")).to eq("54321")
     end
   end
+
+  describe ".fizzbuzz" do
+    context "when given a number divisible by 3" do
+      it 'returns "Fizz"' do
+        expect(Solver.fizzbuzz(3)).to eq("Fizz")
+        expect(Solver.fizzbuzz(9)).to eq("Fizz")
+      end
+    end
+
+    context "when given a number divisible by 5" do
+      it 'returns "Buzz"' do
+        expect(Solver.fizzbuzz(5)).to eq("Buzz")
+        expect(Solver.fizzbuzz(10)).to eq("Buzz")
+      end
+    end
+
+    context "when given a number divisible by both 3 and 5" do
+      it 'returns "FizzBuzz"' do
+        expect(Solver.fizzbuzz(15)).to eq("FizzBuzz")
+        expect(Solver.fizzbuzz(30)).to eq("FizzBuzz")
+      end
+    end
+
+    context "when given a number not divisible by 3 or 5" do
+      it "returns the number as a string" do
+        expect(Solver.fizzbuzz(1)).to eq("1")
+        expect(Solver.fizzbuzz(7)).to eq("7")
+      end
+    end
+  end
 end

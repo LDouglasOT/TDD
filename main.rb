@@ -1,10 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "solver"
+require_relative "Solvers"
 
 # Represents main entry
 def main
-  Operations.new
 end
-z
 main

@@ -66,8 +66,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone `https://github.com/LDouglasOT/school-library.git`
-  cd school_library
+  git clone `https://github.com/LDouglasOT/TDD.git`
+  cd TDD
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

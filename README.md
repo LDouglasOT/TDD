@@ -77,17 +77,20 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤**Daniel Kigozi**
+👤**TDD**
 
-- GitHub: [Daniel-Kigozi](https://github.com/LDouglasOT)
-- Twitter: [@DanielKigozi15](https://twitter.com/@kawempes_finest)
-- LinkedIn: [daniel-kigozi-375182208/](https://www.linkedin.com/in/douglas-luzinda/)
+👤 **Author**
+- GitHub: [@githubhandle](https://github.com/LDouglasOT)
+- Twitter: [@twitterhandle](https://twitter.com/kawempes_finest)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/luzinda-douglas-69bb811b8/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Access books from school library**
+- [ ] **FIZZBUZZ SOLUTION**
+- [ ] **FACTORIAL SOLUTION**
+- [ ] **STRING REVERSE SOLUTION**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -10,5 +10,4 @@ class Solver
     (1..number).reduce(:*)
   end
 
-
 end

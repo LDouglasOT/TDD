@@ -11,4 +11,9 @@ class Solver
   end
 
   # Reverses a string
+  def self.reverse(word)
+    word.reverse
+  end
+
+
 end

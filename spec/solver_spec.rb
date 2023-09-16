@@ -23,5 +23,13 @@ describe Solver do
       end
     end
   end
-  
+
+  describe '.reverse' do
+    it 'reverses a string' do
+      expect(Solver.reverse('hello')).to eq('olleh')
+      expect(Solver.reverse('')).to eq('')
+      expect(Solver.reverse('12345')).to eq('54321')
+    end
+  end
+
 end

@@ -9,4 +9,6 @@ class Solver
 
     (1..number).reduce(:*)
   end
+
+  # Reverses a string
 end
